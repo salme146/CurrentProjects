@@ -1,3 +1,3 @@
-# CurrentProjects
+# Research
 
-This repository is for my current work. Shared on my webiste salmecook.com
+This repository is for my Research. Shared on my webiste salmecook.com
